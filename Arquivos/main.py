@@ -2,7 +2,7 @@ import pyautogui as ag
 
 # Nome_do _programa: limpTemp_Lixeira.py
 #
-# site: https://github.com/FabianoLandimDev/
+# site: https://github.com/FabianoLandimDev//limpTemp_Lixeira.py/blob/main/Arquivos/main.py
 #
 # Autor: Fabiano Landim <landimfabiano01@gmail.com>
 #
