@@ -1,4 +1,5 @@
 import pyautogui as ag
+import time as t
 
 # Nome_do _programa: limpTemp_Lixeira.py
 #
@@ -52,6 +53,7 @@ ag.hotkey('win')
 ag.write('Lixeira')
 ag.press('backspace')
 ag.press('enter')
+t.sleep(2)
 
 #selecionando todo o conteúdo e deletando definitivamente os arquivos...
 ag.hotkey('ctrl', 'a')
